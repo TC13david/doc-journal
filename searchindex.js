@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{content:1,index:1,modul:1,search:1,page:1},objtypes:{},objnames:{},filenames:["01_cloud-services","index"],titles:["&lt;no title&gt;","Welcome to Cloud Develepmont Journal&#8217;s documentation!"],objects:{},titleterms:{welcom:1,titl:0,journal:1,indic:1,tabl:1,document:1,develepmont:1,cloud:1}})
