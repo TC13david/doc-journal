@@ -1,0 +1,14 @@
+###################
+doc journal 1
+###################
+
+document writing
+===================
+
+par 1
+-----------
+
+
+the heroku website is currently being set up as an *italicized* paragraph. 
+Heroku is currently combined with cloud 9 and git hub as well as bit bucket and 
+gmail in order to make this website.
